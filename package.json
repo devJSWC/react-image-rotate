@@ -1,5 +1,5 @@
 {
-  "name": "@meedwire/react-native-image-rotate",
+  "name": "@devJSWC/react-image-rotate",
   "version": "0.2.1",
   "description": "Package intended to rotate images in base64 or path",
   "main": "lib/commonjs/index",
@@ -41,14 +41,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meedwire/react-native-image-rotate.git"
+    "url": "git+https://github.com/devJSWC/react-image-rotate.git"
   },
   "author": "meedwire <meedwire@gmail.com> (https://github.com/meedwire)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/meedwire/react-native-image-rotate/issues"
+    "url": "https://github.com/devJSWC/react-image-rotate/issues"
   },
-  "homepage": "https://github.com/meedwire/react-native-image-rotate#readme",
+  "homepage": "https://github.com/devJSWC/react-image-rotate#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
