@@ -1,6 +1,6 @@
 {
   "name": "@devJSWC/react-image-rotate",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Package intended to rotate images in base64 or path",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
