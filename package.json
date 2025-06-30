@@ -4,7 +4,7 @@
   "description": "Package intended to rotate images in base64 or path",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
-  "types": "lib/typescript/src/index.d.ts",
+  "types": "lib/typescript/index.d.ts",
   "react-native": "src/index",
   "source": "src/index",
   "files": [
@@ -152,7 +152,7 @@
       [
         "typescript",
         {
-          "project": "tsconfig.build.json"
+          "project": "tsconfig.json"
         }
       ]
     ]
